@@ -1,0 +1,15 @@
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\bin\Debug\net8.0\CalcPerimetroArea.exe
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\bin\Debug\net8.0\CalcPerimetroArea.deps.json
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\bin\Debug\net8.0\CalcPerimetroArea.runtimeconfig.json
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\bin\Debug\net8.0\CalcPerimetroArea.dll
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\bin\Debug\net8.0\CalcPerimetroArea.pdb
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\obj\Debug\net8.0\CalcPerimetroArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\obj\Debug\net8.0\CalcPerimetroArea.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\obj\Debug\net8.0\CalcPerimetroArea.AssemblyInfo.cs
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\obj\Debug\net8.0\CalcPerimetroArea.csproj.CoreCompileInputs.cache
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\obj\Debug\net8.0\CalcPerimetroArea.sourcelink.json
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\obj\Debug\net8.0\CalcPerimetroArea.dll
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\obj\Debug\net8.0\refint\CalcPerimetroArea.dll
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\obj\Debug\net8.0\CalcPerimetroArea.pdb
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\obj\Debug\net8.0\CalcPerimetroArea.genruntimeconfig.cache
+C:\NetAcademy\c#\RetosConsole\calcPerimetroArea\obj\Debug\net8.0\ref\CalcPerimetroArea.dll
