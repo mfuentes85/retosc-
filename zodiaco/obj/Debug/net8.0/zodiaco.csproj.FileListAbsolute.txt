@@ -1,0 +1,20 @@
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.AssemblyInfo.cs
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.sourcelink.json
+C:\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.AssemblyInfo.cs
+C:\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.csproj.CoreCompileInputs.cache
+C:\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.sourcelink.json
+C:\NetAcademy\c#\RetosConsole\zodiaco\bin\Debug\net8.0\zodiaco.exe
+C:\NetAcademy\c#\RetosConsole\zodiaco\bin\Debug\net8.0\zodiaco.deps.json
+C:\NetAcademy\c#\RetosConsole\zodiaco\bin\Debug\net8.0\zodiaco.runtimeconfig.json
+C:\NetAcademy\c#\RetosConsole\zodiaco\bin\Debug\net8.0\zodiaco.dll
+C:\NetAcademy\c#\RetosConsole\zodiaco\bin\Debug\net8.0\zodiaco.pdb
+C:\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.dll
+C:\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\refint\zodiaco.dll
+C:\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.pdb
+C:\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\zodiaco.genruntimeconfig.cache
+C:\NetAcademy\c#\RetosConsole\zodiaco\obj\Debug\net8.0\ref\zodiaco.dll
