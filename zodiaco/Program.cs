@@ -5,6 +5,7 @@ Console.WriteLine("Introduzca su mes del nacimiento en 2 dígitos (ej. 01 enero,
 Console.WriteLine("Introduzca su día del nacimiento en 2 dígitos (ej. 01, 02, 03, ...)");
     int dnac= int.Parse(Console.ReadLine());
 
+if (mnac>=1 && mnac<=12 && dnac>=1 && dnac<=31 || mnac==02 && dnac>=1 && dnac<=29){
     //del 1 al 19 de enero: Capricornio
     if (mnac==01 && dnac<=19 || mnac==12 && dnac>=22 && dnac<=31){
       Console.WriteLine ("Tu signo zodiacal es Capricornio");
@@ -76,4 +77,7 @@ Console.WriteLine("Introduzca su día del nacimiento en 2 dígitos (ej. 01, 02, 
         }
         }
         } 
-                            
+}
+else{
+    Console.WriteLine("Datos fuera de rango, favor de verificar las fechas");
+}                    

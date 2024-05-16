@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zodiaco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e34379ee92db247c2a5e6e40f806dbf5b0df47d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca98735481bf4de5e1ef8203428d2cae355fcf4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("zodiaco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zodiaco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
