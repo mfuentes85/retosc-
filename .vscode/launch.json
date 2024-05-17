@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: IMC",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\IMC\\IMC.csproj",
+            "launchConfigurationId": "TargetFramework=;IMC"
+        }
+    ]
+}

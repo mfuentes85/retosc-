@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NetAcademy\\c#\\RetosConsole\\calcPerimetroArea\\CalcPerimetroArea.csproj": {}
+    "C:\\NetAcademy\\c#\\RetosConsole\\CalcPerimetroArea\\CalcPerimetroArea.csproj": {}
   },
   "projects": {
-    "C:\\NetAcademy\\c#\\RetosConsole\\calcPerimetroArea\\CalcPerimetroArea.csproj": {
+    "C:\\NetAcademy\\c#\\RetosConsole\\CalcPerimetroArea\\CalcPerimetroArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NetAcademy\\c#\\RetosConsole\\calcPerimetroArea\\CalcPerimetroArea.csproj",
+        "projectUniqueName": "C:\\NetAcademy\\c#\\RetosConsole\\CalcPerimetroArea\\CalcPerimetroArea.csproj",
         "projectName": "CalcPerimetroArea",
-        "projectPath": "C:\\NetAcademy\\c#\\RetosConsole\\calcPerimetroArea\\CalcPerimetroArea.csproj",
+        "projectPath": "C:\\NetAcademy\\c#\\RetosConsole\\CalcPerimetroArea\\CalcPerimetroArea.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\NetAcademy\\c#\\RetosConsole\\calcPerimetroArea\\obj\\",
+        "outputPath": "C:\\NetAcademy\\c#\\RetosConsole\\CalcPerimetroArea\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"

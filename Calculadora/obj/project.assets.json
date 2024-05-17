@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NetAcademy\\c#\\RetosConsole\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\NetAcademy\\c#\\RetosConsole\\calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\NetAcademy\\c#\\RetosConsole\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\NetAcademy\\c#\\RetosConsole\\calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\NetAcademy\\c#\\RetosConsole\\Calculadora\\obj\\",
+      "outputPath": "C:\\NetAcademy\\c#\\RetosConsole\\calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"

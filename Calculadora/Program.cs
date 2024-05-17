@@ -1,15 +1,16 @@
-﻿int num1;
-int num2;
-int rsuma;
-int rresta;
-int rmult;
+﻿float num1;
+float num2;
+float rsuma;
+float rresta;
+float rmult;
 float rdiv;
 
     //Solicitud de valores al usuario
     Console.WriteLine("Introduzca el primer número");
-        num1= int.Parse(Console.ReadLine());
+        num1=float.Parse(Console.ReadLine());
+        
     Console.WriteLine("Introduzca el segundo número");
-        num2= int.Parse(Console.ReadLine());
+        num2=float.Parse(Console.ReadLine());
     
     // Operaciones
     

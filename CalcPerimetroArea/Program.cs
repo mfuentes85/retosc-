@@ -1,11 +1,11 @@
-﻿int perimetro;
-int area;
+﻿float perimetro;
+float area;
 
 Console.WriteLine ("Escriba el valor de la base del rectángulo");
-    int brectang= int.Parse(Console.ReadLine ());
+    float brectang= float.Parse(Console.ReadLine ());
 
 Console.WriteLine ("Escriba el valor de la altura del rectángulo");
-    int hrectang= int.Parse(Console.ReadLine ());
+    float hrectang= float.Parse(Console.ReadLine ());
 
 perimetro= (2*brectang)+(2*hrectang);
 

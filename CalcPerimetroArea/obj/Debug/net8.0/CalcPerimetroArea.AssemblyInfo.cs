@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcPerimetroArea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9953c0f7bacabd89b623e53870f46c8bcae904fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3be1fb80b5e5ac2956c53b910f2ba54277f4efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcPerimetroArea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcPerimetroArea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

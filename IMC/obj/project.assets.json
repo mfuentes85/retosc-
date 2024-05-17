@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
+    "C:\\Users\\Viridiana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NetAcademy\\c#\\RetosConsole\\IMC\\IMC.csproj",
+      "projectUniqueName": "G:\\Otros ordenadores\\Mi portátil\\NetAcademy\\c#\\RetosConsole\\IMC\\IMC.csproj",
       "projectName": "IMC",
-      "projectPath": "C:\\NetAcademy\\c#\\RetosConsole\\IMC\\IMC.csproj",
-      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\NetAcademy\\c#\\RetosConsole\\IMC\\obj\\",
+      "projectPath": "G:\\Otros ordenadores\\Mi portátil\\NetAcademy\\c#\\RetosConsole\\IMC\\IMC.csproj",
+      "packagesPath": "C:\\Users\\Viridiana\\.nuget\\packages\\",
+      "outputPath": "G:\\Otros ordenadores\\Mi portátil\\NetAcademy\\c#\\RetosConsole\\IMC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Viridiana\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
